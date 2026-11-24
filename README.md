@@ -16,7 +16,7 @@ To install `macdown.vim`, use your favorite Vim plugin manager (e.g.
 [Plug](https://github.com/junegunn/vim-plug)):
 
 ```vimscript
-Plug 'hashrocket/vim-macdown'
+Plug '-/vim-macdown'
 ```
 
 ### Commands
@@ -63,12 +63,3 @@ macdown.vim is released under the [MIT License](http://www.opensource.org/licens
 
 ---
 
-## About
-
-[![Hashrocket logo](https://hashrocket.com/hashrocket_logo.svg)](https://hashrocket.com)
-
-macdown.vim is supported by the team at [Hashrocket, a multidisciplinary
-design and development consultancy](https://hashrocket.com). If you'd like
-to [work with us](https://hashrocket.com/contact-us/hire-us) or [join our
-team](https://hashrocket.com/contact-us/jobs), don't hesitate to get in
-touch.
